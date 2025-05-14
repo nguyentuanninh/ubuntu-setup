@@ -1,5 +1,20 @@
 # Setup Ubuntu
 
+# SYSTEM
+## 1. ibus-unikey
+```bash
+sudo apt update
+sudo apt install ibus-unikey
+```
+
+```bash
+ibus restart
+```
+
+---
+
+
+#  CUSTOME THEME
 ## 1. Install GNOME Tweaks and Extensions
 
 GNOME Tweaks is a tool to customize the GNOME desktop environment.
